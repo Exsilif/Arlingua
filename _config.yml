@@ -1,0 +1,30 @@
+name: Arlingua
+description: Prevajanje in druge jezikovne rešitve
+baseurl: ''
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+      
+  # seo
+title: Aleksandra Rajković
+description: Prevajanje, podpora, lektoriranje, besedilni tipi
+url: http://arlingua.eu
+
+facebook:
+  app_id:
+  publisher:
+  admins:
+
+logo: /assets/images/logo.png
+
+social:
+  name: Aleksandra Rajković
+  links:
+    - https://www.facebook.com/public/Aleksandra-Rajkovi%C4%87
+    - https://www.linkedin.com/in/aleksandrarajkovic
+   
+google_site_verification: F5A9CwJcRpWGeceXSHCiVW1eBncOJ-VxmbhHViHzlFs
+
+
+
